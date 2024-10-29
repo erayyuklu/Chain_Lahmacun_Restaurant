@@ -1,0 +1,18 @@
+Total bonuses for the Konyaalti branch are: 0
+Manager of the Konyaalti branch is Yigit Yildiz.
+Berat Yılmaz is promoted from Cashier to Cook.
+Yigit Yildiz is dismissed from branch: Konyaalti.
+Eray Eroglu is promoted from Cook to Manager.
+Manager of the Konyaalti branch is Eray Eroglu.
+Total bonuses for the Konyaalti branch this month are: 598
+Kaan Cengiz is promoted from Cashier to Cook.
+Eray Eroglu is dismissed from branch: Konyaalti.
+Berat Yılmaz is promoted from Cook to Manager.
+Manager of the Konyaalti branch is Berat Yılmaz.
+Total bonuses for the Konyaalti branch this month are: 2
+Manager of the Konyaalti branch is Berat Yılmaz.
+Total bonuses for the Konyaalti branch this month are: 398
+Kaan Cengiz is leaving from branch: Konyaalti.
+Emre Bagdemir is dismissed from branch: Konyaalti.
+Manager of the Konyaalti branch is Berat Yılmaz.
+Total bonuses for the Konyaalti branch are: 1025
